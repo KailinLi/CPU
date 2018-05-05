@@ -4,6 +4,6 @@
 * 支持多级中断
 * 支持动态分支预测
 
-##预览
+## 预览
 
 ![](http://oklhb00qa.bkt.clouddn.com/CCPU.png)
